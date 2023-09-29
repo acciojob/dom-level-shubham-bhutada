@@ -8,4 +8,4 @@ while(true) {
 	levelElement = levelElement.parentNode;
 	level++;
 }
-alert(`The level of the element is: ${count}`); 
+alert(`The level of the element is: ${level}`); 
